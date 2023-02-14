@@ -1,0 +1,1 @@
+# frabit-plugin-hub
